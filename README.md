@@ -5,13 +5,13 @@ Analyze Walmart customer behavior using Python, SQL, and Power BI to uncover tre
 ---
 
 ## 📚 Table of Contents
-- [Overview](#overview)
-- [Objectives](#objectives)
-- [Tools Used](#tools-used)
-- [Key Insights](#key-insights)
-- [Folder Structure](#folder-structure)
-- [How to Run](#how-to-run)
-- [Conclusion](#conclusion)
+- Overview
+- Objectives
+- Tools Used
+- Key Insights
+- Folder Structure
+- How to Run
+- Conclusion
 
 ---
 
